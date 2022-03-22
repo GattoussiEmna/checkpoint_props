@@ -1,0 +1,29 @@
+h1{
+    color: cornflowerblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+h2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+button{
+    background-color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* margin-left: 600px; */
+}
+
+.title{
+    color: hotpink;
+    @import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&display=swap');
+    font-family: 'Hurricane', cursive;
+font-family: 'Inspiration', cursive;
+
+}
+
+
+button:hover {
+    color: aliceblue;
+}

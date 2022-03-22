@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+.card_boxs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 150px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
